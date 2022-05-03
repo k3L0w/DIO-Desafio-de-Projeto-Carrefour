@@ -1,0 +1,35 @@
+
+
+Desafio: 
+Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
+
+
+Percurso (agenda)
+
+Passo 1 : Introdução
+
+Passo 2 : Git/Giithub : Relebrando algumas coisinhas
+
+Passo 3 : Desafio ;)
+
+
+Passo 1 : Introdução
+
+Desafio de Projeto
+Reforce seu conhecimento em Git com um desafio totalmente prático, onde você executará todos os passos para a criação, atualiação e sincronização de um repositório no Github.
+Com isso, poderá compartilhar anotações e exercícios no próprio repositório. Criando, dessa forma, o primeiro (de muitos) projetos de portfólio.
+
+Requisitos:
+Noções básicas de Git/Github:
+- Introdução ao Git e ao Github (sugestão)
+- Git devidamente instalado (Git Bash)
+
+Passo 2 : Git/Giithub : Relebrando algumas coisinhas
+
+desafioCarrefour(DIO)
+DIO(Desafio-de-Projeto(Carrefour))
+
+Arquivos com extensão: *.md são editáveis em Markdown
+Vide guia completo de utilização: https://www.markdownguide.org/basic-syntax/
+
+
